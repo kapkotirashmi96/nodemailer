@@ -1,0 +1,19 @@
+{
+  "name": "nodemailer",
+  "version": "1.0.0",
+  "description": "The \"Node.js Mailer\" project is designed to offer a streamlined and effective method for sending emails using Node.js in combination with Express.js and the Nodemailer library. This project is centered around simplifying the process of sending emails within Node.js applications, particularly those built on the Express framework.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kapkotirashmi96/nodemailer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kapkotirashmi96/nodemailer/issues"
+  },
+  "homepage": "https://github.com/kapkotirashmi96/nodemailer#readme"
+}
